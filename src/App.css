@@ -1,0 +1,17 @@
+body{
+  background-image: linear-gradient(to right, rgb(240, 22, 22), rgb(215, 236, 26));
+}
+.logo {
+  font-family:cursive;
+  color:whitesmoke;
+}
+.card-img {
+  /* height: 250px;
+  width: 100%; */
+  max-height: 300px;
+  max-width: 100%;
+}
+.darkTransparentBackground {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 25px;
+}
